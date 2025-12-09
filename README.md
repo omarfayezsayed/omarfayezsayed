@@ -7,6 +7,11 @@
 </div>
 
 ###
+<div >
+ <h1 align="center">
+    Technologies That I Use 
+</h1> 
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -35,6 +40,11 @@
 </div>
 
 ###
+<div >
+ <h1 align="center">
+    Contact With Me 
+</h1> 
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omar-fayez-aa7473217/" target="_blank">
@@ -45,10 +55,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=omarfayezsayed&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
